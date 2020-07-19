@@ -1,0 +1,1 @@
+This is a very simple project using C++, and helped improve my C++ skills when I was first starting to get comfortable with the langauge. While I know it can be refined greatly I'm maintaining the code written as it is as a way to see my improvement over time.
